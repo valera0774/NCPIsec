@@ -1,2 +1,0 @@
-# NCPIsec
-DLL protection

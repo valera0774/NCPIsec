@@ -1,10 +1,1 @@
-'%lsusb %VendorID:03f0 ProductID:1017  "HP LaserJet 1300 series (DOT4USB)"   "Hewlett-Packard"    "hp LaserJet 1300"    "00CNCD943436"  %VendorID:046d ProductID:c05b  "USB-  "Logitech"    "USB Optical Mouse"  %VendorID:046d ProductID:c313  "  "BTC"    "USB Multimedia Keyboard"  '
-'%lsusb %VendorID:03f0 ProductID:1017   *HP LaserJet 1300 series (DOT4USB) *    *Hewlett-Packard *     *hp LaserJet 1300 *     *00CNCD943436 *  %VendorID:046d ProductID:c05b   *USB-   *Logitech *     *USB Optical Mouse *  %VendorID:046d ProductID:c313   *   *BTC *     *USB Multimedia Keyboard *  '
-
-'%lsusb %VendorID:046d ProductID:c05b  "USB-  "Logitech"    "USB Optical Mouse"  %VendorID:046d ProductID:c313  "  "BTC"    "USB Multimedia Keyboard"  '
-'%lsusb %VendorID:046d ProductID:c05b  "USB-  "Logitech"    "USB Optical Mouse"  %VendorID:046d ProductID:c313  "  "BTC"    "USB Multimedia Keyboard"  '
-'%lsusb %VendorID:046d ProductID:c05b  "USB-  "Logitech"    "USB Optical Mouse"  %VendorID:046d ProductID:c313  "  "BTC"    "USB Multimedia Keyboard"  '
-(('lsusb ', nil), ('VendorID:046d ProductID:c05b  "USB-  "Logitech"    "USB Optical Mouse"  %VendorID:046d ProductID:c313  "  "BTC"    "USB Multimedia Keyboard"  ', nil), ('', nil), ('', nil))
-
-'%lsusb %VendorID:046d    "USB Optical Mouse"  %VendorID:046d ProductID:c313  "  "BTC"    "USB Multimedia Keyboard"  '
-'%lsusb %VendorID:046d ProductID:c05b  "USB-  "Logitech"    "USB Optical Mouse"  %VendorID:046d ProductID:c313  "  "BTC"    "USB Multimedia Keyboard"  '
+111
